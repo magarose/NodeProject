@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: antiquewhite;
+  margin-top: 0px;
+  font-family: 'Acme', sans-serif;
+
+
+}
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.filtro{
+  display: inline-block;
+}
+
+.table{
+  width: 50%;
+ 
+}
+td{
+  padding: 10px;
+  background-color: white;
+}
+
+.tabla{
+  display: flex;
+  width:30% ;
+  
+ 
+}
+.nn{
+  padding: 15px;
+  margin-right: 3px;
+ 
+}
