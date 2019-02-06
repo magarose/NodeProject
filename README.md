@@ -10,7 +10,7 @@ Every user can be edited or deleted.
 There's an input where u can add a new user.
 There's an input where u can search for an user with a keyword (filter) 
 
-Also, I made an API where shows every new user and search them with their ID in the url /api/users/:iduser
+Also, I made an API which shows every new user. Each user can be find with their ID in the url /api/users/:iddelusuario
 
 
 (I know, styles are awful) 
